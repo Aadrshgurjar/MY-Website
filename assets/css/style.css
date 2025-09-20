@@ -741,6 +741,7 @@ color: #fff;
 textarea.input-field {
   min-height: 165px;
   resize: none;
+  color: #fff;
 }
 
 .contact-form .btn { margin-block-start: 30px; }
