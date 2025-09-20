@@ -720,6 +720,10 @@ body.nav-active { overflow: hidden; }
   gap: 60px;
 }
 
+input {
+color: #fff;
+}
+
 .contact-form .input-field {
   height: 50px;
   padding-block: 12px;
